@@ -5,15 +5,9 @@
   "author": "hand-dot",
   "license": "MIT",
   "keywords": [
-    "pdf",
-    "pdf-generation",
-    "pdf-designer",
-    "pdf-viewer",
-    "typescript",
-    "react"
   ],
   "description": "TypeScript base PDF generator and React base UI. Open source, developed by the community, and completely free to use under the MIT license!",
-  "homepage": "https://pdfme.com",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "git@github.com:ramsmart-inno/changedpdfme.git"
